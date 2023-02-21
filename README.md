@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<a href="https://dragostrifan.github.io/reactjs-restaurant-project/">Link</a>
+<a href="https://dragostrifan.github.io/reactjs-restaurant-project/">Visit Website</a>
 
 ## Available Scripts
 
